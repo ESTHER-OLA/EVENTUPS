@@ -20,7 +20,7 @@ export default function HeroSection() {
     <div className="relative h-[70vh] min-h-[500px] flex items-center justify-center overflow-hidden bg-gradient-to-r from-chart-4 to-chart-5/30 text-white">
       <div className="absolute inset-0 z-[-10] bg-red-700">
         <Image
-          src="/images/tech-background.jpg"
+          src="/tech-background.jpg"
           alt="Tech Background"
           fill
           className="object-cover"

@@ -6,7 +6,7 @@ export default function QuoteSection() {
       <div
         className="
           absolute inset-0
-          bg-[url('/images/placeholder.jpg')]
+          bg-[url('/placeholder.jpg')]
           bg-cover bg-center
           mix-blend-overlay opacity-20
         "
