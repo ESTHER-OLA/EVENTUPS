@@ -132,7 +132,7 @@ export default function EventPage() {
 
                   <div className="mb-8">
                     <h2 className="text-xl font-semibold mb-4">
-                      What you'll learn
+                      {"What you'll learn"}
                     </h2>
                     <ul className="space-y-2">
                       <li className="flex items-start">
